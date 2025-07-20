@@ -1,0 +1,4 @@
+min-tps-pause: 10.0       # below this TPS, pause generation
+min-tps-slow: 18.0        # below this TPS, slow down generation
+max-chunks-per-tick: 5    # default max chunks generated per tick
+min-chunks-per-tick: 1    # minimum chunks per tick when slowing down
